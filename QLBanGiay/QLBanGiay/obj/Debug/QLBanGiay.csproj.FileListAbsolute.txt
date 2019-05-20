@@ -1,0 +1,15 @@
+D:\QLBanGiay\QLBanGiay\bin\Debug\QLBanGiay.exe.config
+D:\QLBanGiay\QLBanGiay\bin\Debug\QLBanGiay.exe
+D:\QLBanGiay\QLBanGiay\bin\Debug\QLBanGiay.pdb
+D:\QLBanGiay\QLBanGiay\bin\Debug\MetroFramework.Design.dll
+D:\QLBanGiay\QLBanGiay\bin\Debug\MetroFramework.dll
+D:\QLBanGiay\QLBanGiay\bin\Debug\MetroFramework.Fonts.dll
+D:\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.csprojResolveAssemblyReference.cache
+D:\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.Giay.resources
+D:\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.GUI.Main.resources
+D:\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.GUI.ThongKe.resources
+D:\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.GUI.ThongKe_NV.resources
+D:\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.Properties.Resources.resources
+D:\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.csproj.GenerateResource.Cache
+D:\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.exe
+D:\QLBanGiay\QLBanGiay\obj\Debug\QLBanGiay.pdb
